@@ -41,3 +41,5 @@ const populateItem = (taskList) => {
 };
 
 toDoList.forEach(populateItem);
+
+document.addEventListener('DOMContentLoaded', populateItem);
