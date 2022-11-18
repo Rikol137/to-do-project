@@ -1,5 +1,4 @@
-// eslint-disable-next-line import/extensions
-import TodoList from './listClass.js';
+import TodoList from './listClass';
 
 const todo = new TodoList();
 
