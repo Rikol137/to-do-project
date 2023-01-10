@@ -40,7 +40,7 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-  - [🚀 Live Demo](#https://rikol137.github.io/to-do-project/)
+  - [🚀 Live Demo](#Live demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
