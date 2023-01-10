@@ -51,9 +51,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 AwesomeBooks <a name="about-project"></a>
+# 📖 To-Do-Project <a name="about-project"></a>
 
-**AwesomeBooks** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
+**To-Do-Project** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,8 +84,8 @@ There are no prerequisites for this project.
 Clone this repository to your desired folder:
 
 ```sh
-  cd awesomeBooks
-  git clone https://github.com/shasherazi/awesomeBooks.git
+  cd to-do-project
+  git clone https://github.com/Rikol137/to-do-project
 ```
 
 <!-- AUTHORS -->
