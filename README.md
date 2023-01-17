@@ -1,39 +1,4 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
+to-do-project
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -51,9 +16,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-Do-Project <a name="about-project"></a>
+# 📖  <a name="about-project"></a>
 
-**To-Do-Project** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
+**to-do-project** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -65,7 +30,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://example.com)
+- [Live Demo Link](https://github.com/Rikol137/to-do-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +50,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd to-do-project
-  git clone https://github.com/Rikol137/to-do-project
+  git clone https://github.com/Rikol137/Awesome-Books-ES6
 ```
 
 <!-- AUTHORS -->
@@ -98,15 +63,6 @@ Clone this repository to your desired folder:
 -  GitHub: [@Rikol137](https://github.com/Rikol137)
 - LinkedIn: https://www.linkedin.com/in/kelvin-kimwetich-b5398521a/
 - twitter: https://twitter.com/RikolK
-
-👤 **Author2**
-
-- GitHub: @dieum512
-- Twitter: @dieumakonkw
-- LinkedIn: Dieum Akonkwa
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
