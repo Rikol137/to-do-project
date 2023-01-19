@@ -1,68 +1,89 @@
-![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+to-do-project
+<!-- TABLE OF CONTENTS -->
 
-# Set-up-project-with-webpack
-- Build a simple yet powerful webpack boilerplate. To be used as a starting point in projects. Working with the webpack official guides.
+# 📗 Table of Contents
 
-## Getting Started
-To get a local copy up and running follow these simple steps.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [🚀 Live Demo](#Live demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖  <a name="about-project"></a>
+
+**to-do-project** is a simple website that allows users to add/remove books from a list. This project is part of the Microverse curriculum.
+
+## 🛠 Built With <a name="built-with"></a>
+
+- HTML
+- CSS
+- JavaScript
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://github.com/Rikol137/to-do-project)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-- VIsual Studio Code.
-- Browser
+
+There are no prerequisites for this project.
 
 ### Setup
-- Open the terminal on your computer
-- Navigate through directories using [change directory (cd)](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10) command to where you want to clone the repository.
-- Type the following command then press ENTER: 
-  - git clone https://github.com/Rikol137/to-do-project/
-- the terminal will send to you information about your download.
-- Type the following command then press ENTER: 
-  - cd Set-up-project-with-webpack
-- **Type the following lists of commands and press ENTER after each command:**
-  - *Basic Setup*
-    - npm install --save-dev
 
-  - *Setup linters*
-    - npm install --save-dev hint@7.x
-    - npx hint .
-    - npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-    - npx stylelint "**/*.{css,scss}"
-    - npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
-    - npx eslint .
+Clone this repository to your desired folder:
 
-  - **Open folder in VSC**
-    - code .
+```sh
+  cd to-do-project
+  git clone https://github.com/Rikol137/Awesome-Books-ES6
+```
 
-## Built With
-- **HTML/CSS & JS best practices:** Correct use of tags, elements, properties and syntax.
-- **GitHub flow:** Correct use of Branches for deployment and features development.
-- **Linters Check:** Local and Pull Request check for errors, bugs and stylistic errors in code.
-- **Webpack:** used as a bundle to compile JavaScript modules.
+<!-- AUTHORS -->
 
-## Authors 
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
 ### 👤 **Rikol Kelvin**
 
 -  GitHub: [@Rikol137](https://github.com/Rikol137)
 - LinkedIn: https://www.linkedin.com/in/kelvin-kimwetich-b5398521a/
 - twitter: https://twitter.com/RikolK
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to the Code Reviewer(s) for the insightful feedback.
-- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
-- Hat tip to anyone whose code was used.
+If you like this project then give it a star ⭐️.
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
