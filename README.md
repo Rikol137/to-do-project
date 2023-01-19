@@ -83,7 +83,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the repository using:
 ```
-    https://github.com/Shaheryar0054/To-Do-Project.git
+    https://github.com/Rikol137/to-do-project
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
