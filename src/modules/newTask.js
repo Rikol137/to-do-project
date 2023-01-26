@@ -1,4 +1,4 @@
-import { createTodo, todo } from './displayTask';
+import { createTodo, todo } from './displayTask.js';
 
 const form = document.getElementById('form');
 
