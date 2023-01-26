@@ -5,9 +5,9 @@
 // eslint-disable-next-line import/extensions
 import createMockDocument from './mocks/documentMock.js';
 // eslint-disable-next-line import/no-unresolved, import/extensions
-import { getAddedTodos } from '../src/module/newTask.js';
+import { getAddedTodos } from '../src/modules/newTask';
 // eslint-disable-next-line import/no-unresolved, import/extensions
-import { todo } from '../src/module/displayTask.js';
+import { todo } from '../src/modules/displayTask';
 
 function addInputDescription(value, input) {
   input.value = value;
