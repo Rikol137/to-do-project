@@ -50,6 +50,7 @@
 > Describe between 1-3 key features of the application.
 
 - **[Used webpack]**
+- **Used jest for the testing**
 - **[setup the basic structure of to-do-list-app]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -58,7 +59,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://rikol137.github.io/to-do-project/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,6 +85,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the repository using:
 ```
     https://github.com/Rikol137/to-do-project
+    to run the tests npm run test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,6 +103,12 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: https://www.linkedin.com/in/kelvin-kimwetich-b5398521a/
 - twitter: https://twitter.com/RikolK
 
+👤 **Author2**
+### 👤 **Chase N.**
+
+-GitHub: [@chaseknis](https://github.com/chaseknis)
+-Twitter: https://twitter.com/chasetotheworld
+LinkedIn: https://www.linkedin.com/in/innocent-n-200826252/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
