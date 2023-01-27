@@ -58,7 +58,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://rikol137.github.io/to-do-project/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
