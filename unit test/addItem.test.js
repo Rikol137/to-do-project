@@ -2,11 +2,8 @@
  * @jest-environment jsdom
  */
 
-// eslint-disable-next-line import/extensions
-import createMockDocument from './mocks/documentMock.js';
-// eslint-disable-next-line import/no-unresolved, import/extensions
+import createMockDocument from './mocks/documentMock';
 import { getAddedTodos } from '../src/modules/newTask';
-// eslint-disable-next-line import/no-unresolved, import/extensions
 import { todo } from '../src/modules/displayTask';
 
 function addInputDescription(value, input) {

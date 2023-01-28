@@ -2,8 +2,7 @@
  * @jest-environment jsdom
  */
 
-// eslint-disable-next-line import/no-unresolved, import/extensions
-import createMockDocument from './mocks/documentMock.js';
+import createMockDocument from './mocks/documentMock';
 
 describe('createMockDocument', () => {
   it('create a ul in the document', () => {
