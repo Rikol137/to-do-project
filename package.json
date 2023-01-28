@@ -497,7 +497,7 @@
     "webpack-cli": "^5.0.1"
   },
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest",
     "start": "webpack serve --open",
     "server": "node server.js",
     "build": "webpack"
